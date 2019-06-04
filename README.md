@@ -3010,7 +3010,7 @@ The Run pane will show Test Results.  If there is a compilation error before or 
    ![Add New Elixir Mix ExUnit](/screenshots/features/run_debug_configurations/mix_test/Add%20New.png?raw=true "Add New Elixir Mix ExUnit Run Configuration")
 4. Fill in the "`mix test` arguments" with the argument(s) to pass to `mix test`.  Normally, this will be a directory like `test`, relative to the "Working directory"
 5. (Optionally) fill in "`elixir` arguments" with the arguments to `elixir` before it runs `mix test`.
-6. (Optionally) fill in "`erl` arguments"` with the arguments to `erl` before it runs `elixir`.
+6. (Optionally) fill in "`erl` arguments" with the arguments to `erl` before it runs `elixir`.
 7. Fill in the "Working directory"
    * Type the absolute path to the directory.
    * Select the path using directory picker by clicking the `...` button
